@@ -31,8 +31,8 @@
     {
       "name" : "shaderc",
       "site" : "github",
-      "subrepo" : "google/shaderc",
-      "commit" : "d0d8d7e7ea5074cb107499a73a22ce14bec3fb10"
+      "subrepo" : "lunarpapillo/shaderc",
+      "commit" : "f0bb038fcf49752af1b5e471236ae4f45a0f9811"
     },
     {
       "name" : "spirv-headers",
